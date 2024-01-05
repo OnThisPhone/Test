@@ -1,3 +1,6 @@
 git commit - Commit to local git repo
 git push - Push local repo to git server
 git add - Adds new/edited content to be committed.
+
+Hej Johan!
+
